@@ -1,0 +1,110 @@
+{
+  "cats": {
+    "name": "cats",
+    "followers": 128400,
+    "following": 342,
+    "bio": "Daily naps, zoomies, and purrfect poses. 🐾",
+    "posts": [
+      {
+        "id": "cat_post_001",
+        "image_url": "https://example.com/images/cat1.jpg",
+        "caption": "Sunbeam snooze ☀️",
+        "likes": 18420,
+        "comments": [
+          {
+            "user": "catlover_91",
+            "text": "So cozy!"
+          },
+          {
+            "user": "meow_master",
+            "text": "That paw tho 😻"
+          }
+        ]
+      },
+      {
+        "id": "cat_post_002",
+        "image_url": "https://example.com/images/cat2.jpg",
+        "caption": "Caught mid-yawn",
+        "likes": 15230,
+        "comments": [
+          {
+            "user": "kittyfan",
+            "text": "Adorable!"
+          },
+          {
+            "user": "purrfect",
+            "text": "I can't handle this cuteness"
+          }
+        ]
+      },
+      {
+        "id": "cat_post_003",
+        "image_url": "https://example.com/images/cat3.jpg",
+        "caption": "Box > bed",
+        "likes": 20345,
+        "comments": [
+          {
+            "user": "box_enthusiast",
+            "text": "Classic behavior 😂"
+          },
+          {
+            "user": "felinefriend",
+            "text": "Give that box a crown"
+          }
+        ]
+      }
+    ]
+  },
+  "dogs":{
+    "name": "dogs",
+    "followers": 98500,
+    "following": 275,
+    "bio": "Small dog, big personality. Spreading pawsitive vibes daily.",
+    "posts": [
+      {
+        "id": "dog_post_101",
+        "image_url": "https://placedog.net/400/300",
+        "caption": "Tiny jacket, huge attitude",
+        "likes": 14200,
+        "comments": [
+          {
+            "user": "fashionpup",
+            "text": "Outfit on point!"
+          },
+          {
+            "user": "tinybutmighty",
+            "text": "Love this look"
+          }
+        ]
+      },
+      {
+        "id": "dog_post_102",
+        "image_url": "https://example.com/images/small_dog2.jpg",
+        "caption": "Snack time shuffle",
+        "likes": 11890,
+        "comments": [
+          {
+            "user": "snacklover",
+            "text": "Share the snack!"
+          }
+        ]
+      },
+      {
+        "id": "dog_post_103",
+        "image_url": "https://example.com/images/small_dog3.jpg",
+        "caption": "Couch king coronation",
+        "likes": 16540,
+        "comments": [
+          {
+            "user": "couchpotato",
+            "text": "All hail the king 👑"
+          },
+          {
+            "user": "pawsup",
+            "text": "So regal"
+          }
+        ]
+      }
+    ]
+  }
+}
